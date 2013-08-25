@@ -19,4 +19,4 @@ Thanks to [spotify's job site](https://www.spotify.com/us/jobs/tech/) for this [
 1. Fork [this github repository](https://github.com/CentralArkansasCodeKata/ReverseNumbersInBinary).
 2. Write your solution to the problem.
 3. Commit your solution to the repository.
-4. Post a link to your fork as a comment to [this Reversed Binary post](http://codekata.co/2013/08/25/reverse-numbers-in-binary/) on [codekata.co](http://codekata.co).
+4. Post a link to your fork as a comment to [this Reverse Numbers in Binary post](http://codekata.co/2013/08/25/reverse-numbers-in-binary/) on [codekata.co](http://codekata.co).
